@@ -1,6 +1,6 @@
 require 'helper'
 
-describe OmniAuth::Strategies::OAuth2 do
+describe OmniAuth::Strategies::Xctf_time do
   def app
     lambda do |_env|
       [200, {}, ['Hello.']]
