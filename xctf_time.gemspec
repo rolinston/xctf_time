@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'oauth2'
   gem.add_dependency 'omniauth'
 
-  gem.add_development_dependency 'bundler'
+  #gem.add_development_dependency 'bundler'
 
   gem.authors       = ['rolinston', 'helloworld']
   gem.email         = ['zdhaimao@gmail.com', 'helloworld@test.com']
